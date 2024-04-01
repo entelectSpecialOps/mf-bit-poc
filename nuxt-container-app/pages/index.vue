@@ -1,10 +1,11 @@
 <template>
     <div>
         <nav>
+            <!-- Navigation bar -->
             <ul>
-                <li><nuxlink to="/">Home</nuxlink></li>
-                <li><nuxlink to="/about">About</nuxlink></li>
-                <li><nuxlink to="/contact">Contact</nuxlink></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
             </ul>
         </nav>
 
